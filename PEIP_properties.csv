@@ -1,0 +1,8 @@
+﻿properties common to the reservoir and aquifer,,,,,reservoir properties,,
+h,100,ft,,,N,312x10^6,stb
+k,200,mD,,,Swc,0.05,
+uw,0.55,cp,,,,,
+o,0.25,,,,,,
+cw,3.0 x10^-6,psi,,,,,
+ct,4.0 x10^-6,psi,,,,,
+Bw,1,,,,,,
